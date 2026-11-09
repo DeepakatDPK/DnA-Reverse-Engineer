@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.1.0](https://github.com/DeepakatDPK/DnA-Reverse-Engineer/compare/rea-agents-6.0.0...rea-agents-6.1.0) (2026-11-09)
+
+
+### Features
+
+* initial REA framework clone — 2,217 files, MCP tools, provider adapters ([60e881f](https://github.com/DeepakatDPK/DnA-Reverse-Engineer/commit/60e881fd3f4bf0f27273cdfec332d768599eeea7))
+
 ## [6.0.0](https://github.com/morluto/rea/compare/rea-agents-5.0.0...rea-agents-6.0.0) (2026-10-08)
 
 
